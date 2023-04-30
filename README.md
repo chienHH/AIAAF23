@@ -4,7 +4,7 @@ AIAAF 2023 Workshop Unity and RL in Architecture
 
 **News:**
 
-    9-21-2019: This package contains materials for the  `Unity and RL Workshop AIAAF 2023<https://aiaaf2023-unityai-workshop.splashthat.com/>`_
+    01-05-2023: This package contains materials for the  `Unity and RL Workshop AIAAF 2023<https://aiaaf2023-unityai-workshop.splashthat.com/>`_
     for the AI-aided Architectural Farbication Symposium 2023.
 
 Installation
@@ -16,7 +16,7 @@ Installation
 
 0. Operating System:
     **Windows 10/11** and **Mac(!)**
-1. `Unity3D <>`_
+1. _`Unity3D2022.2.17f1<https://unity.com/download>`_
     We will use Unity mainly to run all the simulation and reinforcement learning. The reinforcement learning part is achieved by `MLAgents <https://github.com/Unity-Technologies/ml-agents>`_
     The robotic articulation is achieved by `Unity Robotics Hub <https://github.com/Unity-Technologies/Unity-Robotics-Hub>`
 1. `Rhinoceros 3D 7.0 <https://www.rhino3d.com/>`_
